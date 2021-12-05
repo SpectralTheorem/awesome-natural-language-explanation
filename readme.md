@@ -85,9 +85,11 @@ https://arxiv.org/pdf/2004.14546.pdf
 [Explainability for Natural Language Processing Lecture-style Tutorial at SIGKDD 2021](https://xainlp.github.io/kddtutorial/)
 
 
-## related repositories
-[Awesome-explainable-AI](https://github.com/wangyongjie-ntu/Awesome-explainable-AI)
-[awesome-machine-learning-interpretability](https://github.com/jphall663/awesome-machine-learning-interpretability)
-[awesome-nlg](https://github.com/accelerated-text/awesome-nlg#readme)
+## related repositories  
+[Awesome-explainable-AI](https://github.com/wangyongjie-ntu/Awesome-explainable-AI)  
+
+[awesome-machine-learning-interpretability](https://github.com/jphall663/awesome-machine-learning-interpretability)  
+
+[awesome-nlg](https://github.com/accelerated-text/awesome-nlg#readme)  
 
 
